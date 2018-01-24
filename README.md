@@ -232,7 +232,7 @@ SDK是Authing官方及社区提供的方便用户进行多端接入的开源软�
 - Node/JavaScript
 - Swift
 
-查看官方文档，[请点击这里](http://docs.authing.cn)。
+查看官方文档，[请点击这里](https://docs.authing.cn)。
 
 #### SDK规范
 
@@ -296,7 +296,7 @@ auth.then(function(validAuth) {
 
 ##### 对象方法
 
-可参考文档内的[用户接口列表](http://docs.authing.cn/#/user_service/user_service)。
+可参考文档内的[用户接口列表](https://docs.authing.cn/#/user_service/user_service)。
 
 ### 未来规划
 
