@@ -27,7 +27,7 @@ Authing的商业目标，是成为全球最大的云端身份认证服务（甚�
 
 ### AaaS(Authentication as a Service)介绍
 
-Authentication as a Service（AssS）是新一代云计算应用，在有些场合也被称作Identity as a Service（IDaaS）。AssS是由第三方提供的用于解决身份认证、用户管理等问题的云端基础设施。
+Authentication as a Service（AaaS）是新一代云计算应用，在有些场合也被称作Identity as a Service（IDaaS）。AaaS是由第三方提供的用于解决身份认证、用户管理等问题的云端基础设施。
 
 AaaS提供了安全的准入许可和数据存储。当一名用户或一款应用试图访问受保护资源时，他必须提供认证资料。比如你若想使用Facebook必须提供账号密码，再比如在微信一些网页上进行投票时系统会获取你的微信个人资料。认证服务（Authentication Service）在这种场景下作为一个法官，保证合规的用户，拒绝非法的请求。当认证过程结束后，用户可以正常访问他们想要访问的资源或应用控制台。
 
