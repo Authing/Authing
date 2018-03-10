@@ -37,6 +37,8 @@ AaaS提供了安全的准入许可和数据存储。当一名用户或一款应�
 * JavaScript - 用来开发客户端应用；
 * Swift - 用来开发iOS应用；
 
+如果您想为Authing贡献SDK，请参考[SDK Guide](https://docs.authing.cn/#/sdk/sdk)。
+
 除了语言层面的支持外，还应拥有富文本客户端、数据可视化支持来保证用户运营。
 
 ----------
