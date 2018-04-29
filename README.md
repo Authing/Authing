@@ -242,15 +242,13 @@ SDK是Authing官方及社区提供的方便用户进行多端接入的开源软�
 
 ##### 包名称
 
-Authing官方提供的包统一命名为：```authing-js-sdk```。
-
-这样无论在Python语言下还是Node语言下都可以以相同包名称进行安装。
+Authing官方提供的包统一命名为：```authing-［语言名缩写］-sdk```。
 
 如：
 
 **Python**
 ``` shell
-$ pip install authing-js-sdk
+$ pip install authing-py-sdk
 ```
 
 **Node/JavaScript**
