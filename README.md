@@ -240,23 +240,6 @@ SDK是Authing官方及社区提供的方便用户进行多端接入的开源软�
 
 为了减少开发者在不同平台的学习成本，所以Authing必须保证SDK接口的一致性，当然在不同语言情境下，会做出少量调整。
 
-##### 包名称
-
-Authing官方提供的包统一命名为：```authing-［语言名缩写］-sdk```。
-
-如：
-
-**Python**
-``` shell
-$ pip install authing-py-sdk
-```
-
-**Node/JavaScript**
-
-``` shell
-$ npm install authing-js-sdk --save
-```
-
 ##### 初始化
 
 在进行代码初始化时必须是初始化一个类，该类的构造函数接收一个对象作为参数：
