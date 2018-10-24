@@ -1,4 +1,8 @@
-# Authing 云端身份认证服务 白皮书
+<h1 align="center">
+  <a href="https:/authing.cn"><img width="550" src="https://cdn.authing.cn/authing-logo@2.png" alt="filego svg logo" /></a>
+</h1>
+
+<h3 align="center">Authing 领先的身份认证云</h3>
 
 ----------
 
