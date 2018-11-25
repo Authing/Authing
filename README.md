@@ -8,7 +8,7 @@
 
 ### 下一代身份认证和数字资产鉴权平台
 
-Authing 依托万维网之父 **Tim Berners-Lee** 的去中心化社交网络项目 [Solid](https://github.com/solid/solid)，是 Solid 在中国的第一个提供商，我们将推动 Solid 在中国落地，并帮助用户夺回数据控制权。
+Authing 依托万维网之父 **Tim Berners-Lee** 的去中心化社交网络项目 [Solid](https://github.com/solid/solid)，是 Solid 在中国的第一个提供商，我们将推动 Solid 在中国落地，并帮助用户夺回数据控制权。我们在中国搭建了 [Solid 中文社区](https://learnsolid.cn)，以让普通人认识到 Solid 的潜在价值。
 
 Authing 通过简单易用、可拓展的集成平台提供了复杂身份认证的解决方案,目标是保证每个月数以百万计的安全登录。为了达成这一目标，Authing 在中国华南、华北双区域做了应用部署，保证了服务 99.99% 的可用性。
 
