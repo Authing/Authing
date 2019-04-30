@@ -14,7 +14,7 @@ Authing 提供身份认证和授权服务。
 
 你可以根据你使用的技术，来选择我们的 SDK 或调用相关 API，从而接入你的应用。当用户发起授权请求时，Authing 会帮助你认证他们的身份和返回必要的用户信息到你的应用中。
 
-![]()
+![https://github.com/Authing/authing/blob/master/imgs/authing.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/authing.png?raw=true)
 
 ## 为什么要使用 Authing
 
