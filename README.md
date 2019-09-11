@@ -48,6 +48,10 @@ Authing 使用的行业标准协议包括：
 - **Security Assertion Markup Language (SAML)**: 一种基于 XML 的开放数据格式，SAML 允许企业应用程序和内部、外部程序无缝连接。
 - **LDAP**: LDAP 是轻量目录访问协议，英文全称是 Lightweight Directory Access Protocol，一般都简称为 LDAP。你可以把它理解为一个树型的用来存储用户和组织信息的数据库，常被用来做单点登录（ SSO ）和企业员工信息管理。
 
+## Get Help
+
+1. Join us on Gitter: [#authing-chat](https://gitter.im/authing-chat/community)
+
 ## 接下来你可能需要
 
 1. [阅读 Authing 开发文档，成为 Authing 开发者](https://docs.authing.cn/#/)
