@@ -16,6 +16,8 @@ Authing 提供身份认证和授权服务。
 
 ![https://github.com/Authing/authing/blob/master/imgs/authing.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/authing.png?raw=true)
 
+开发计划路线图：[Authing Roadmap](https://github.com/Authing/authing/projects/1)。
+
 ## 为什么要使用 Authing
 
 下面是我们整理的 Authing 的使用场景：
