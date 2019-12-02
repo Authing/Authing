@@ -6,13 +6,9 @@
 
 ## Authing 是什么？
 
-Authing 提供身份认证和授权服务。
+Authing 提供身份认证和授权服务，我们提供跨平台的 SDK（Android、iOS 和 Web），帮助开发者和企业使用六行代码拥有邮箱/密码、短信/验证码、扫码登录、社会化登录等功能。
 
-我们为开发者和企业提供用以保证应用程序安全所需的认证模块，这让开发人员无需成为安全专家。
-
-你可以将以任意语言和任意技术栈编写的应用接入到 Authing，同时你还可以自定义应用程序的登录方式（如：邮箱/密码、短信/验证码、扫码登录等）。
-
-你可以根据你使用的技术，来选择我们的 SDK 或调用相关 API，从而接入你的应用。当用户发起授权请求时，Authing 会帮助你认证他们的身份和返回必要的用户信息到你的应用中。
+当用户发起授权请求时，Authing 会帮助你认证他们的身份和返回必要的用户信息到你的应用中。
 
 ![https://github.com/Authing/authing/blob/master/imgs/authing.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/authing.png?raw=true)
 
