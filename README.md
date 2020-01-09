@@ -38,6 +38,16 @@ IDaaS generally need to support multiple languages:
 There's a huge amount of work to support all these languages, and IDaaS makes it easy because it has integrated all the technology stacks since it was born.
 </details>
 
+## Built With
+
+1. TypeScript - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+1. Nest.js - A progressive Node.js framework.
+1. Vue.js - A JavaScript framework for building UI on the web.
+1. MongoDB - A NoSQL Database.
+1. GraphQL - A query language and execution engine tied to any backend service.
+1. Docker - Containers.
+1. RabbitMQ - Open source multi-protocol messaging broker.
+
 ## Why Authing
 
 - You built an awesome app and you want to add user authentication and authorization. Your users should be able to log in either with username/password or with their social accounts (Facebook, Twitter, and so on). You want to retrieve the user's profile after the login so you can customize the UI and apply your authorization policies.
@@ -97,14 +107,50 @@ Document of authing is Deployed on Gitbook:
 
 ## Videos And Articles
 
+1. [Authing 是什么以及为什么需要 Authing]()
+1. [为什么身份认证值得上云]()
+1. [一键认证让移动应用都不需要发短信了，Web 怎么办？]()
+1. [函数计算在身份认证云中的应用场景]()
+1. [用 Authing 10 分钟实现单点登录]()
+1. [Serverless 最佳实践：在云上认证身份授权资源]()
+1. [为什么所有软件都应该使用单点登录来管理用户？]()
+1. [身份上云 or 自建？这里有 20 个问题值得你思考]()
+1. [Auth0 和 Authing，谁是身份云的高脚杯]()
+1. [五分钟接入微信网页授权登录]()
+1. [六个步骤实施零信任网络]()
+1. [五分钟实现小程序登录]()
+1. [Authing 开发资源最全合集]()
+1. [五分钟在移动端实现完整用户认证]()
+1. [使用 Authing 快速集成 AWS 服务]()
+1. [从几个细节看身份认证这件事不简单]()
+1. [GraphQL 在身份认证场景中的深度使用实践（一）]()
+
 ## Who Uses Authing?
+
+![https://cdn.authing.cn/github/customers/seu.png](https://cdn.authing.cn/github/customers/seu.png)
+![https://cdn.authing.cn/github/customers/hephep.gif](https://cdn.authing.cn/github/customers/hephep.gif)
+![https://cdn.authing.cn/github/customers/memect.png](https://cdn.authing.cn/github/customers/memect.png)
+![https://cdn.authing.cn/github/customers/chatopera.png](https://cdn.authing.cn/github/customers/chatopera.png)
+![https://cdn.authing.cn/github/customers/juzi.png](https://cdn.authing.cn/github/customers/juzi.png?v=1)
+![https://cdn.authing.cn/github/customers/kingdomai.png](https://cdn.authing.cn/github/customers/kingdomai.png?v=1)
 
 Users are encouraged to add themselves to the Powered By page.
 
 ## Contributing
 
-## Get Help
+## Community
 
 1. Join us on Gitter: [#authing-chat](https://gitter.im/authing-chat/community)
 2. QQ group: 543317789
+
+### Wechat
+
+![https://github.com/Authing/authing/blob/master/imgs/qrcode_for_authing.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/qrcode_for_authing.png?raw=true)
+
+## Authors
+
+- [Ivy Dom](https://github.com/leinue)
+- [](https://github.com/)
+
+## License
 
