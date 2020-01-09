@@ -18,7 +18,7 @@ You can connect any application (written in any language or on any stack) to Aut
 
 Based on your app's technology, choose one of our SDKs (or call our API), and hook it up to your app. Now each time a user tries to authenticate, Authing will verify their identity and send the required information back to your app.
 
-![https://github.com/Authing/authing/blob/master/imgs/authing-pos.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/authing-pos.png?raw=true)
+![https://cdn.authing.cn/github/customers/authing-pos.png](https://cdn.authing.cn/github/customers/authing-pos.png)
 
 Develop Roadmap: [Authing Roadmap](https://github.com/Authing/authing/projects/1).
 
@@ -131,12 +131,13 @@ Document of authing is Deployed on Gitbook:
 
 ## Who Uses Authing?
 
-![https://cdn.authing.cn/github/customers/seu.png](https://cdn.authing.cn/github/customers/seu.png)
-![https://cdn.authing.cn/github/customers/hephep.gif](https://cdn.authing.cn/github/customers/hephep.gif)
-![https://cdn.authing.cn/github/customers/memect.png](https://cdn.authing.cn/github/customers/memect.png)
-![https://cdn.authing.cn/github/customers/chatopera.png](https://cdn.authing.cn/github/customers/chatopera.png)
-![https://cdn.authing.cn/github/customers/juzi.png](https://cdn.authing.cn/github/customers/juzi.png?v=1)
-![https://cdn.authing.cn/github/customers/kingdomai.png](https://cdn.authing.cn/github/customers/kingdomai.png?v=1)
+<img src="https://cdn.authing.cn/github/customers/seu.png" width="100px">
+<img src="https://cdn.authing.cn/github/customers/kingdomai.png" width="100px">
+<br>
+<img src="https://cdn.authing.cn/github/customers/hephep.gif" width="100px">
+<img src="https://cdn.authing.cn/github/customers/memect.png" width="100px">
+<img src="https://cdn.authing.cn/github/customers/chatopera.png" width="100px">
+<img src="https://cdn.authing.cn/github/customers/juzi.png" width="100px">
 
 Users are encouraged to add themselves to the Powered By page.
 
@@ -151,7 +152,7 @@ Under Construction.
 
 ### Wechat
 
-![https://usercontents.authing.cn/qrcode_for_steamory.jgp](https://usercontents.authing.cn/qrcode_for_steamory.jgp)
+<img src="https://usercontents.authing.cn/qrcode_for_steamory.jgp" width="150px">
 
 ## Contributors
 
