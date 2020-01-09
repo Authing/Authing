@@ -22,11 +22,11 @@ Based on your app's technology, choose one of our SDKs (or call our API), and ho
 
 Develop Roadmap: [Authing Roadmap](https://github.com/Authing/authing/projects/1).
 
-## What is IDaaS
-
+<details>
+<summary><strong>What is IDaaS ?<strong></summary>
 Identity as a Service (IDaaS) is a new generation of cloud computing application, which is also called Authentication as a service (AaaS) in some occasions. IDaaS is a cloud infrastructure provided by a third party to solve the problems of identity authentication and user management.
 
-IDaaS provides secure access and data storage. When a user or an app attempts to access a protected resource, he must provide authentication information. For example, if you want to use Facebook, you must provide the account password. For example, when you vote on some wechat pages, the system will obtain your wechat personal information. In this scenario, authentication service, as a judge, ensures that compliant users refuse illegal requests. When the authentication process is over, users can normally access the resources or application dashboard they want to access.
+IDaaS provides secure access and data storage. When a user or an app attempts to access a protected resource, he must provide authentication information. For example, if you want to use Facebook, you must provide the account password. For example, when you vote on some wechat pages, the system will obtain your wechat personal information. In this scenario, authentication service, as a middleware, ensures that compliant users refuse illegal requests. When the authentication process is over, users can normally access the resources or application dashboard they want to access.
 
 IDaaS generally need to support multiple languages:
 
@@ -36,6 +36,7 @@ IDaaS generally need to support multiple languages:
 1. **Swift/Flutter/OC** - used to develop iOS applications;
 
 There's a huge amount of work to support all these languages, and IDaaS makes it easy because it has integrated all the technology stacks since it was born.
+</details>
 
 ## Why Authing
 
@@ -69,8 +70,8 @@ There's a huge amount of work to support all these languages, and IDaaS makes it
 1. Log in with mobile phone verification code.
 1. Six lines of code generates a web login form.
 
-### **Which industry standards does Authing use?**
-
+<details>
+<summary><strong>Which industry standards does Authing use ?<strong></summary>
 Once upon a time, when computers were standalone systems, all the authentication and user data lived in a single machine. Times have changed, and now you can use the same login information across multiple apps and sites. This has been achieved through widespread adoption of identity industry standards across the web.
 
 These are a set of open specifications and protocols that specify how to design an authentication and authorization system. They specify how you should manage identity, move personal data securely, and decide who can access applications and data.
@@ -81,6 +82,7 @@ The identity industry standards that we use here in Authing are:
 - **Open ID Connect**: an identity layer that sits on top of OAuth 2 and allows for easy verification of the user's identity, as well the ability to get basic profile information from the identity provider.
 - **JSON Web Tokens**: an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
 - **Security Assertion Markup Language (SAML)**: an open-standard, XML-based data format that allows businesses to communicate user authentication and authorization information to partner companies and enterprise applications their employees may use.
+</details>
 
 ## Installation
 
