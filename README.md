@@ -6,6 +6,8 @@
 
 Authing can help you rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
 
+We also deploy a cloud version, welcome to visit [authing.cn](https://authing.cn) to try it out.
+
 ## What is Authing
 
 Authing provides authentication and authorization as a service.
@@ -18,7 +20,22 @@ Based on your app's technology, choose one of our SDKs (or call our API), and ho
 
 ![https://github.com/Authing/authing/blob/master/imgs/authing-pos.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/authing-pos.png?raw=true)
 
-开发计划路线图：[Authing Roadmap](https://github.com/Authing/authing/projects/1)。
+Develope Roadmap: [Authing Roadmap](https://github.com/Authing/authing/projects/1)。
+
+## What is IDaaS
+
+Identity as a Service (IDaaS) is a new generation of cloud computing application, which is also called Authentication as a service (AAAS) in some occasions. IDaaS is a cloud infrastructure provided by a third party to solve the problems of identity authentication and user management.
+
+IDaaS provides secure access and data storage. When a user or an app attempts to access a protected resource, he must provide authentication information. For example, if you want to use Facebook, you must provide the account password. For example, when you vote on some wechat pages, the system will obtain your wechat personal information. In this scenario, authentication service, as a judge, ensures that compliant users refuse illegal requests. When the authentication process is over, users can normally access the resources or application dashboard they want to access.
+
+IDaaS generally need to support multiple languages:
+
+1. Java/Kotlin - used to develop Andorid or Web applications;
+1. Node/Python/PHP/Go/Dart/Rust - used to develop Back-end applications;
+1. JavaScript - used to develop Web or Desktop applications;
+1. Swift/Flutter/OC - used to develop iOS applications;
+
+There's a huge amount of work to support all these languages, and IDaaS makes it easy because it has integrated all the technology stacks since it was born.
 
 ## Why Authing
 
@@ -49,7 +66,36 @@ The identity industry standards that we use here in Authing are:
 - **JSON Web Tokens**: an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
 - **Security Assertion Markup Language (SAML)**: an open-standard, XML-based data format that allows businesses to communicate user authentication and authorization information to partner companies and enterprise applications their employees may use.
 
+## Features
+
+1. Mainstream third-party social login integrations;
+1. SSO based on OAuth2.0, OpenID Connect, SAML, LDAP and CAS；
+1. 基于 Web 的用户管理系统（权限管理、身份管理、基础资料 CRUD）；
+1. 跨平台多终端集成能力（Android、iOS、HTML5）；
+1. 多语言 SDK（JavaScript、Node、Java、Python、Swift、PHP）；
+1. 基于 HTTPS、JWT、MD5、SHA256、Salt 和非对称加密的安全身份认证；
+1. 基于消息队列的邮件服务、基于 Web 的邮件模版配置服务以及自定义第三方邮件服务的能力；
+1. 基于指纹验证等的生物认证方式；
+1. 易集成、易拓展的插件系统和可编程规则接入；
+1. 用户登录地点、IP 监控；
+1. 使用小程序扫描小程序二维码登录；
+1. 使用手机 - 验证码登录；
+1. 一行代码生成 Web 登录表单；
+
+## Quickstart
+
+## Document
+
+## Videos And Articles
+
+## Who Uses Authing?
+
+Users are encouraged to add themselves to the Powered By page.
+
+## Contributing
+
 ## Get Help
 
 1. Join us on Gitter: [#authing-chat](https://gitter.im/authing-chat/community)
+2. QQ group: 552030619
 
