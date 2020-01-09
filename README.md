@@ -39,16 +39,6 @@ IDaaS generally need to support multiple languages:
 There's a huge amount of work to support all these languages, and IDaaS makes it easy because it has integrated all the technology stacks since it was born.
 </details>
 
-## Built With
-
-1. **TypeScript** - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-1. **Nest.js** - A progressive Node.js framework.
-1. **Vue.js** - A JavaScript framework for building UI on the web.
-1. **MongoDB** - A NoSQL Database.
-1. **GraphQL** - A query language and execution engine tied to any backend service.
-1. **Docker** - Containers.
-1. **RabbitMQ** - Open source multi-protocol messaging broker.
-
 ## Why Authing
 
 - You built an awesome app and you want to add user authentication and authorization. Your users should be able to log in either with username/password or with their social accounts (Facebook, Twitter, and so on). You want to retrieve the user's profile after the login so you can customize the UI and apply your authorization policies.
@@ -91,7 +81,7 @@ There's a huge amount of work to support all these languages, and IDaaS makes it
 1. Six lines of code generates a cross-platform login form.
 
 <details>
-<summary><strong>Which industry standards does Authing use ?</strong></summary>
+<summary><strong>Which industry standards does Authing use?</strong></summary>
 Once upon a time, when computers were standalone systems, all the authentication and user data lived in a single machine. Times have changed, and now you can use the same login information across multiple apps and sites. This has been achieved through widespread adoption of identity industry standards across the web.
 
 These are a set of open specifications and protocols that specify how to design an authentication and authorization system. They specify how you should manage identity, move personal data securely, and decide who can access applications and data.
@@ -103,6 +93,36 @@ The identity industry standards that we use here in Authing are:
 - **JSON Web Tokens**: an open standard that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.
 - **Security Assertion Markup Language (SAML)**: an open-standard, XML-based data format that allows businesses to communicate user authentication and authorization information to partner companies and enterprise applications their employees may use.
 </details>
+
+<details>
+<summary><strong>Click here to see part of screenshots of Authing</strong></summary>
+
+<img src="https://cdn.authing.cn/github/screenshots/sample-sso.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/dashboard.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/dash-geo.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/social-login.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/users-management.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/users.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/geo-user.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/email-tpl.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/email-tpls.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/api.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/sdk.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/security.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/settings.png" width="250px"/>
+<img src="https://cdn.authing.cn/github/screenshots/audit.png" width="250px"/>
+
+</details>
+
+## Built With
+
+1. **TypeScript** - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+1. **Nest.js** - A progressive Node.js framework.
+1. **Vue.js** - A JavaScript framework for building UI on the web.
+1. **MongoDB** - A NoSQL Database.
+1. **GraphQL** - A query language and execution engine tied to any backend service.
+1. **Docker** - Containers.
+1. **RabbitMQ** - Open source multi-protocol messaging broker.
 
 ## Installation
 
