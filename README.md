@@ -30,23 +30,23 @@ IDaaS provides secure access and data storage. When a user or an app attempts to
 
 IDaaS generally need to support multiple languages:
 
-1. **Java/Kotlin** - used to develop Andorid or Web applications;
-1. **Node/Python/PHP/Go/Dart/Rust...** - used to develop Back-end applications;
-1. **JavaScript** - used to develop Web or Desktop applications;
-1. **Swift/Flutter/OC** - used to develop iOS applications;
+1. **Java/Kotlin** - used to develop Andorid or Web applications.
+1. **Node/Python/PHP/Go/Dart/Rust...** - used to develop Back-end applications.
+1. **JavaScript** - used to develop Web or Desktop applications.
+1. **Swift/Flutter/OC** - used to develop iOS applications.
 
 There's a huge amount of work to support all these languages, and IDaaS makes it easy because it has integrated all the technology stacks since it was born.
 </details>
 
 ## Built With
 
-1. TypeScript - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-1. Nest.js - A progressive Node.js framework.
-1. Vue.js - A JavaScript framework for building UI on the web.
-1. MongoDB - A NoSQL Database.
-1. GraphQL - A query language and execution engine tied to any backend service.
-1. Docker - Containers.
-1. RabbitMQ - Open source multi-protocol messaging broker.
+1. **TypeScript** - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+1. **Nest.js** - A progressive Node.js framework.
+1. **Vue.js** - A JavaScript framework for building UI on the web.
+1. **MongoDB** - A NoSQL Database.
+1. **GraphQL** - A query language and execution engine tied to any backend service.
+1. **Docker** - Containers.
+1. **RabbitMQ** - Open source multi-protocol messaging broker.
 
 ## Why Authing
 
