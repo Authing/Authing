@@ -134,7 +134,8 @@ Document of authing is Deployed on Gitbook:
 <p float="left">
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/seu.png" width="60px">
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/kingdomai.png" width="60px">
-<img style="display:inline-block" src="https://kaiyuanshe.cn/image/KaiYuanShe-logo.png" width="60px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/KaiYuanShe-logo.png" width="60px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/pocoweb.jpg" width="60px">
 <br>
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/hephep.gif" width="120px">
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/memect.png" width="120px">
