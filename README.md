@@ -6,7 +6,7 @@
 
 Authing can help you rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
 
-We also deploy a cloud version, welcome to visit [Authing.cn](https://authing.cn) to try it out.
+We have deployed a cloud version, welcome to visit [Authing.cn](https://authing.cn) to try it out.
 
 ## What is Authing
 
@@ -24,16 +24,16 @@ Develop Roadmap: [Authing Roadmap](https://github.com/Authing/authing/projects/1
 
 ## What is IDaaS
 
-Identity as a Service (IDaaS) is a new generation of cloud computing application, which is also called Authentication as a service (AAAS) in some occasions. IDaaS is a cloud infrastructure provided by a third party to solve the problems of identity authentication and user management.
+Identity as a Service (IDaaS) is a new generation of cloud computing application, which is also called Authentication as a service (AaaS) in some occasions. IDaaS is a cloud infrastructure provided by a third party to solve the problems of identity authentication and user management.
 
 IDaaS provides secure access and data storage. When a user or an app attempts to access a protected resource, he must provide authentication information. For example, if you want to use Facebook, you must provide the account password. For example, when you vote on some wechat pages, the system will obtain your wechat personal information. In this scenario, authentication service, as a judge, ensures that compliant users refuse illegal requests. When the authentication process is over, users can normally access the resources or application dashboard they want to access.
 
 IDaaS generally need to support multiple languages:
 
-1. Java/Kotlin - used to develop Andorid or Web applications;
-1. Node/Python/PHP/Go/Dart/Rust - used to develop Back-end applications;
-1. JavaScript - used to develop Web or Desktop applications;
-1. Swift/Flutter/OC - used to develop iOS applications;
+1. **Java/Kotlin** - used to develop Andorid or Web applications;
+1. **Node/Python/PHP/Go/Dart/Rust...** - used to develop Back-end applications;
+1. **JavaScript** - used to develop Web or Desktop applications;
+1. **Swift/Flutter/OC** - used to develop iOS applications;
 
 There's a huge amount of work to support all these languages, and IDaaS makes it easy because it has integrated all the technology stacks since it was born.
 
@@ -55,19 +55,19 @@ There's a huge amount of work to support all these languages, and IDaaS makes it
 
 ## Features
 
-1. Mainstream third-party social login integrations;
-1. SSO based on OAuth2.0, OpenID Connect, SAML, LDAP and CAS；
-1. User management system based on Web (authorization management, identity management, basic data crud);
-1. Cross platform integration capability (Android, IOS, Web);
-1. Multi language SDK (JavaScript, node, Java, python, swift, PHP);
-1. Secure identity authentication based on HTTPS, JWT, MD5, RSA, sha256, salt;
-1. Mail service based on message queue, mail template configuration service based on Web and the ability to customize the third-party mail provider;
-1. Biometric authentication based on fingerprint verification;
-1. Easy to integrate and expand plug-in system and access to programmable rules;
-1. User login location and IP monitoring;
-1. Use the Wechat Miniprogram to scan the QRCode to log in;
-1. Log in with mobile phone verification code;
-1. Six lines of code generates a web login form;
+1. Mainstream third-party social login integrations.
+1. SSO based on OAuth2.0, OpenID Connect, SAML, LDAP and CAS.
+1. User management system based on Web (authorization management, identity management, basic data crud).
+1. Cross platform integration capability (Android, IOS, Web).
+1. Multi language SDK (JavaScript, node, Java, python, swift, PHP).
+1. Secure identity authentication based on HTTPS, JWT, MD5, RSA, sha256, salt.
+1. Mail service based on message queue, mail template configuration service based on Web and the ability to customize the third-party mail provider.
+1. Biometric authentication based on fingerprint verification.
+1. Easy to integrate and expand plug-in system and access to programmable rules.
+1. User login location and IP monitoring.
+1. Use the Wechat Miniprogram to scan the QRCode to log in.
+1. Log in with mobile phone verification code.
+1. Six lines of code generates a web login form.
 
 ### **Which industry standards does Authing use?**
 
@@ -91,7 +91,7 @@ The identity industry standards that we use here in Authing are:
 Document of authing is Deployed on Gitbook:
 
 1. Mainland China users please visit: [docs.authing.cn](https://docs.authing.cn).
-1. Non mainland China users please visit: [learn.authing.cn](https://learn.authing.cn)
+1. Non mainland China users please visit: [learn.authing.cn](https://learn.authing.cn).
 
 ## Videos And Articles
 
