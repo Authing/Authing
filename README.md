@@ -132,13 +132,17 @@ Document of authing is Deployed on Gitbook:
 ## Who Uses Authing?
 
 <p float="left">
-<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/seu.png" width="100px">
-<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/kingdomai.png" width="100px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/seu.png" width="60px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/kingdomai.png" width="60px">
+<img style="display:inline-block" src="https://kaiyuanshe.cn/image/KaiYuanShe-logo.png" width="60px">
 <br>
-<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/hephep.gif" width="100px">
-<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/memect.png" width="100px">
-<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/chatopera.png" width="100px">
-<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/juzi.png" width="100px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/hephep.gif" width="120px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/memect.png" width="120px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/chatopera.png" width="120px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/juzi.png" width="120px">
+<img style="display:inline-block" src="https://fcc.authing.cn/images/logo-navbar.png" width="120px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/stackchat.png" width="120px">
+<img style="display:inline-block" src="https://cdn.authing.cn/github/customers/lz.png" width="120px">
 </p>
 
 Users are encouraged to add themselves to the Powered By page.
