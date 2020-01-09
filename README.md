@@ -73,7 +73,7 @@ There's a huge amount of work to support all these languages, and IDaaS makes it
 
 ## Features
 
-1. Mainstream third-party social login integrations.
+1. Mainstream third-party social login integrations(Wechat, QQ, Github, Weibo, DingTalk, Alipay).
 1. SSO based on OAuth2.0, OpenID Connect, SAML, LDAP and CAS.
 1. User management system based on Web (authorization management, identity management, basic data crud).
 1. Role Based Access Control to authorizate users.
