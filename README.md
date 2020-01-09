@@ -131,6 +131,7 @@ Document of authing is Deployed on Gitbook:
 
 ## Who Uses Authing?
 
+<p float="left">
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/seu.png" width="100px">
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/kingdomai.png" width="100px">
 <br>
@@ -138,6 +139,7 @@ Document of authing is Deployed on Gitbook:
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/memect.png" width="100px">
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/chatopera.png" width="100px">
 <img style="display:inline-block" src="https://cdn.authing.cn/github/customers/juzi.png" width="100px">
+</p>
 
 Users are encouraged to add themselves to the Powered By page.
 
