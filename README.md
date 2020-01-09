@@ -6,7 +6,7 @@
 
 Authing can help you rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
 
-We also deploy a cloud version, welcome to visit [authing.cn](https://authing.cn) to try it out.
+We also deploy a cloud version, welcome to visit [Authing.cn](https://authing.cn) to try it out.
 
 ## What is Authing
 
@@ -20,7 +20,7 @@ Based on your app's technology, choose one of our SDKs (or call our API), and ho
 
 ![https://github.com/Authing/authing/blob/master/imgs/authing-pos.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/authing-pos.png?raw=true)
 
-Develope Roadmap: [Authing Roadmap](https://github.com/Authing/authing/projects/1)。
+Develop Roadmap: [Authing Roadmap](https://github.com/Authing/authing/projects/1).
 
 ## What is IDaaS
 
@@ -70,17 +70,17 @@ The identity industry standards that we use here in Authing are:
 
 1. Mainstream third-party social login integrations;
 1. SSO based on OAuth2.0, OpenID Connect, SAML, LDAP and CAS；
-1. 基于 Web 的用户管理系统（权限管理、身份管理、基础资料 CRUD）；
-1. 跨平台多终端集成能力（Android、iOS、HTML5）；
-1. 多语言 SDK（JavaScript、Node、Java、Python、Swift、PHP）；
-1. 基于 HTTPS、JWT、MD5、SHA256、Salt 和非对称加密的安全身份认证；
-1. 基于消息队列的邮件服务、基于 Web 的邮件模版配置服务以及自定义第三方邮件服务的能力；
-1. 基于指纹验证等的生物认证方式；
-1. 易集成、易拓展的插件系统和可编程规则接入；
-1. 用户登录地点、IP 监控；
-1. 使用小程序扫描小程序二维码登录；
-1. 使用手机 - 验证码登录；
-1. 一行代码生成 Web 登录表单；
+1. User management system based on Web (authorization management, identity management, basic data crud);
+1. Cross platform integration capability (Android, IOS, Web);
+1. Multi language SDK (JavaScript, node, Java, python, swift, PHP);
+1. Secure identity authentication based on HTTPS, JWT, MD5, RSA, sha256, salt;
+1. Mail service based on message queue, mail template configuration service based on Web and the ability to customize the third-party mail provider;
+1. Biometric authentication based on fingerprint verification;
+1. Easy to integrate and expand plug-in system and access to programmable rules;
+1. User login location and IP monitoring;
+1. Use the Wechat Miniprogram to scan the QRCode to log in;
+1. Log in with mobile phone verification code;
+1. Six lines of code generates a web login form;
 
 ## Quickstart
 
@@ -97,5 +97,5 @@ Users are encouraged to add themselves to the Powered By page.
 ## Get Help
 
 1. Join us on Gitter: [#authing-chat](https://gitter.im/authing-chat/community)
-2. QQ group: 552030619
+2. QQ group: 543317789
 
