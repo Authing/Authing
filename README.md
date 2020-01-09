@@ -76,16 +76,19 @@ There's a huge amount of work to support all these languages, and IDaaS makes it
 1. Mainstream third-party social login integrations.
 1. SSO based on OAuth2.0, OpenID Connect, SAML, LDAP and CAS.
 1. User management system based on Web (authorization management, identity management, basic data crud).
-1. Cross platform integration capability (Android, IOS, Web).
-1. Multi language SDK (JavaScript, node, Java, python, swift, PHP).
+1. Role Based Access Control to authorizate users.
+1. User's geographical location record, login and registration history, easy to audit.
+1. Multifactor Authentication System.
+1. Cross platform integration capability (Android, iOS, Web).
+1. Multi language SDK (JavaScript, Node, Java, Python, OC, PHP, 小程序, ReactNative).
 1. Secure identity authentication based on HTTPS, JWT, MD5, RSA, sha256, salt.
 1. Mail service based on message queue, mail template configuration service based on Web and the ability to customize the third-party mail provider.
-1. Biometric authentication based on fingerprint verification.
 1. Easy to integrate and expand plug-in system and access to programmable rules.
 1. User login location and IP monitoring.
 1. Use the Wechat Miniprogram to scan the QRCode to log in.
+1. Easy implementation of web page QRCode scanning login in app.
 1. Log in with mobile phone verification code.
-1. Six lines of code generates a web login form.
+1. Six lines of code generates a cross-platform login form.
 
 <details>
 <summary><strong>Which industry standards does Authing use ?</strong></summary>
