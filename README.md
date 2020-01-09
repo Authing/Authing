@@ -96,7 +96,11 @@ The identity industry standards that we use here in Authing are:
 
 ## Installation
 
+Under Construction.
+
 ## Quickstart
+
+Under Construction.
 
 ## Document
 
@@ -138,6 +142,8 @@ Users are encouraged to add themselves to the Powered By page.
 
 ## Contributing
 
+Under Construction.
+
 ## Community
 
 1. Join us on Gitter: [#authing-chat](https://gitter.im/authing-chat/community)
@@ -145,12 +151,22 @@ Users are encouraged to add themselves to the Powered By page.
 
 ### Wechat
 
-![https://github.com/Authing/authing/blob/master/imgs/qrcode_for_authing.png?raw=true](https://github.com/Authing/authing/blob/master/imgs/qrcode_for_authing.png?raw=true)
+![https://usercontents.authing.cn/qrcode_for_steamory.jgp](https://usercontents.authing.cn/qrcode_for_steamory.jgp)
 
-## Authors
+## Contributors
 
 - [Ivy Dom](https://github.com/leinue)
-- [](https://github.com/)
+- [lixpng](https://github.com/lixpng)
+- [kelvinji2009](https://github.com/kelvinji2009)
+- [vexilligera](https://github.com/vexilligera)
+- [gouyaming](https://github.com/gouyaming)
+- [willin](https://github.com/willin)
+- [TingYinHelen](https://github.com/TingYinHelen)
+- [Meeken1998](https://github.com/Meeken1998)
+- [HowieWolf](https://github.com/HowieWolf)
+- [JackJin2014](https://github.com/JackJin2014)
+- [fuergaosi233](https://github.com/fuergaosi233)
+- [clearloop](https://github.com/clearloop)
 
 ## License
 
