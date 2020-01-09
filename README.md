@@ -24,6 +24,7 @@ Develop Roadmap: [Authing Roadmap](https://github.com/Authing/authing/projects/1
 
 <details>
 <summary><strong>What is IDaaS ?</strong></summary>
+
 Identity as a Service (IDaaS) is a new generation of cloud computing application, which is also called Authentication as a service (AaaS) in some occasions. IDaaS is a cloud infrastructure provided by a third party to solve the problems of identity authentication and user management.
 
 IDaaS provides secure access and data storage. When a user or an app attempts to access a protected resource, he must provide authentication information. For example, if you want to use Facebook, you must provide the account password. For example, when you vote on some wechat pages, the system will obtain your wechat personal information. In this scenario, authentication service, as a middleware, ensures that compliant users refuse illegal requests. When the authentication process is over, users can normally access the resources or application dashboard they want to access.
@@ -57,14 +58,17 @@ There's a huge amount of work to support all these languages, and IDaaS makes it
 - You have a web app which needs to authenticate users using SAML.
 - You believe passwords are broken and you want your users to log in with one-time codes delivered by email or SMS.
 <details>
-<summary><strong>Click here to see more reasons.</strong></summary>
-- If one of your user's email addresses is compromised in some site's public data breach, you want to be notified, and you want to notify the users and/or block them from logging in to your app until they reset their password.
-- You want to act proactively to block suspicious IP addresses if they make consecutive failed login attempts, in order to avoid DDoS attacks.
-- You are part of a large organization who wants to federate their existing enterprise directory service to allow employees to log in to the various internal and third-party applications using their existing enterprise credentials.
-- You don't want (or you don't know how) to implement your own user management solution. Password resets, creating, provisioning, blocking, and deleting users, and the UI to manage all these. You just want to focus on your app.
-- You want to enforce multi-factor authentication when your users want to access sensitive data.
-- You are looking for an identity solution that will help you stay on top of the constantly growing compliance requirements of SOC2, GDPR, OpenID Connect, and others.
-- You want to use analytics to track users on your site or application. You plan on using this data to create funnels, measure user retention, and improve your sign up flow.
+<summary><strong>Click here to see more reasons</strong></summary>
+
+<ul>
+<li>If one of your user's email addresses is compromised in some site's public data breach, you want to be notified, and you want to notify the users and/or block them from logging in to your app until they reset their password.</li>
+<li>You want to act proactively to block suspicious IP addresses if they make consecutive failed login attempts, in order to avoid DDoS attacks.</li>
+<li>You are part of a large organization who wants to federate their existing enterprise directory service to allow employees to log in to the various internal and third-party applications using their existing enterprise credentials.</li>
+<li>You don't want (or you don't know how) to implement your own user management solution. Password resets, creating, provisioning, blocking, and deleting users, and the UI to manage all these. You just want to focus on your app.</li>
+<li>You want to enforce multi-factor authentication when your users want to access sensitive data.</li>
+<li>You are looking for an identity solution that will help you stay on top of the constantly growing compliance requirements of SOC2, GDPR, OpenID Connect, and others.</li>
+<li>You want to use analytics to track users on your site or application. You plan on using this data to create funnels, measure user retention, and improve your sign up flow.</li>
+</ul>
 </details>
 
 ## Features
