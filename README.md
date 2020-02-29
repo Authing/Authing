@@ -206,6 +206,7 @@ Under Construction.
 - [JackJin2014](https://github.com/JackJin2014)
 - [fuergaosi233](https://github.com/fuergaosi233)
 - [clearloop](https://github.com/clearloop)
+- [liaochangjiang](https://github.com/liaochangjiang)
 
 ## License
 
