@@ -2,7 +2,7 @@
   <a href="https://authing.cn"><img width="550" src="https://cdn.authing.cn/authing-logo@2.png?a=1" alt="Authing" /></a>
 </h1>
 
-<h3 align="center">Authing —— Open Source IDaaS Provider that can Auth to Everything</h3>
+<h3 align="center">Authing —— IDaaS Provider that can Auth to Everything</h3>
 
 Authing can help you rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
 
