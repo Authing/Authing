@@ -185,7 +185,7 @@ Under Construction.
 
 ## Community
 
-1. Join us on Gitter: [#authing-chat](https://gitter.im/authing-chat/community)
+1. Join us on Gitter: [#authing-chat](https://forum.authing.cn/)
 2. QQ group: 543317789
 
 ### Wechat
