@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://authing.cn"><img width="550" src="https://files.authing.co/authing-console/authing-logo-new-20210924.svg?a=1" alt="Authing" /></a>
+  <a href="https://authing.cn"><img width="300" src="https://files.authing.co/authing-console/authing-logo-new-20210924.svg?a=1" alt="Authing" /></a>
 </h1>
 
 <h3 align="center">Authing —— IDaaS Provider that can Auth to Everything</h3>
