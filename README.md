@@ -19,29 +19,30 @@ Authing does two things for you:
 
 - <strong>Customer Identity</strong>
 
-Create a secure and seamless authentication experience for your customers.
+  Create a secure and seamless authentication experience for your customers.
 
 - <strong>Workforce Identity</strong>
 
-Protect and enable your workforce to use any technology on any device.
+  Protect and enable your workforce to use any technology on any device.
 
 <div align=center><img src="./imgs/one-scenario.png" width="650px" /></div>
 
 ## What is Authing?
 
-Authing serves as an identity infrastructure, or Identity As A Service (IDaaS)  for cloud computing.
+Authing serves as an identity infrastructure, or <strong>Identity As A Service (IDaaS)</strong>  for cloud computing.
 
 Authing focuses on identity and building social infrastructure for identity sharing across all SaaS software and users to help companies build a secure modern IT infrastructure that not only protects their business, but also redefines the user experience.
 
 <div align=center><img src="./imgs/image_upimage_upload_load_0.png" width="650px" /></div>
 
-<div align=center>Infrastructure for identity sharing across all SaaS software and users</div>
+<div align=center><strong><i>Infrastructure for identity sharing across all SaaS software and users</i></strong></div>
+<br />
 
 Authing is the foundation for secure connections between a complex identity ecology and an application ecology in which countless identities access applications and resources in a borderless way.
 
 <div align=center><img src="./imgs/8f117429-bd58-42e7-8f05-2a6edea4827c.png" width="650px" /></div>
 
-<div align=center><strong>Key functions: Multi-factor login</strong></div>
+<div align=center><strong><i>Key functions: Multi-factor login</i></strong></div>
 
 ## API First
 
@@ -141,11 +142,8 @@ Authing provides a concise and unified SDK for users in the complex login scenes
 
 ### No supplier lock-in
 
-Authing provides a complete and easy data export feature that allows users to completely
-migrate their data from the platform at any time. Authing does not retain any of the data
-of users.
-- Authing supports all major protocols in the market such as OIDC, SAML, OAuth, etc., so
-customers are free to choose.
+Authing provides a complete and easy data export feature that allows users to completely migrate their data from the platform at any time. Authing does not retain any of the data of users.
+- Authing supports all major protocols in the market such as OIDC, SAML, OAuth, etc., so customers are free to choose.
 - Authing supports a custom authentication process (Pipeline) . Customers can change the authentication process, plug and unplug the required functions, such as the invitation code
 
 ### Support for private deployments
@@ -167,13 +165,13 @@ The Universal Directory (Guard) is an embeddable login form that can be configur
 
 <div align=center><img src="./imgs/4e357666-a19a-4587-b857-fb3aa4c21607.png" width="650px" /></div>
 
-<div align=center><strong>Universal Directory</strong></div>
+<div align=center><strong><i>Universal Directory</i></strong></div>
 
 The Guard helps developers shield the details of the underlying authentication and tedious UI development. It enables enterprises and developers to quickly launch a secure, customizable UI unified login form.
 
 ![image](./imgs/d8b9d825-91ee-4c04-8611-dd1b0c6f489f.png)
 
-<div align=center><strong>Developers to quickly launch a secure, customizable UI unified login form</strong></div>
+<div align=center><strong><i>Developers to quickly launch a secure, customizable UI unified login form</i></strong></div>
 </details>
 
 - Account password / phone verification / APP scan code / corporate identity source / social login.
@@ -185,7 +183,7 @@ Guard can be easily embedded in your apps, customized to enable multiple social 
   
 <div align=center><img src="./imgs/c1f8d4ab-9028-46f1-aa1d-aaa95ae2dadd.png" width="650px" /></div>
 
-<div align=center><strong>Flexibly define login</strong></div>
+<div align=center><strong><i>Flexibly define login</i></strong></div>
 <br />
 
 If you want to be able to make changes to the existing UI, you can customize it with HTML, CSS and JavaScript.
@@ -198,7 +196,8 @@ Generally, we see a tendency to use MFA in industries dealing with sensitive dat
   
 <div align=center><img src="./imgs/51436d13-3c5e-4706-a20a-535642ad7e01.png" width="650px" /></div>
 
-<div align=center><strong>Authing MFA</strong></div>
+<div align=center><strong><i>Authing MFA</i></strong></div>
+<br />
 
 Authing can centrally configure a variety of authentication factors other than passwords, including dynamic tokens, faces, fingerprints and other biological characteristics. At the same time, it provides a developer API to support other applications to use IDaaS's identity authentication capabilities.
 
@@ -208,7 +207,7 @@ When you want to ensure data security or smoothly migrate users, please use Auth
   
 <div align=center><img src="./imgs/8544889f-43ff-4772-860e-25319486e72e.png" width="650px" /></div>
 
-<div align=center><strong>Custom Database Connections</strong></div>
+<div align=center><strong><i>Custom Database Connections</i></strong></div>
 <br/>
 
 ### APN: Authing Partner Network
@@ -218,21 +217,23 @@ After joining APN, you will be able to experience the following functions:
 
 - Single sign-on (SSO) capability, which means your customers will be able to log in to your application through a unified entrance and a unified account
 - Make it easier for your customers to find your app, since APN will add your exposure opportunities to your potential partners
-  
+<br />
 <div align=center><img src="./imgs/5dbcb9f3-655a-49b5-9b06-9c7031048f8f.png" width="650px" /></div>
 
 ## Built-with
 
-1. TypeScript - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-2. Nest.js - A progressive Node.js framework.
-3. React.js - A JavaScript library for building user interfaces.
-4. PostgreSQL - A powerful, open source object-relational database system.
-5. Kubernetes - An open-source container orchestration system.
-6. Redis - An open source, in-memory data structure store.
-7. RocketMQ - A distributed messaging and streaming platform.
+1. **TypeScript** - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+2. **Nest.js** - A progressive Node.js framework.
+3. **React.js** - A JavaScript library for building user interfaces.
+4. **PostgreSQL** - A powerful, open source object-relational database system.
+5. **Kubernetes** - An open-source container orchestration system.
+6. **Redis** - An open source, in-memory data structure store.
+7. **RocketMQ** - A distributed messaging and streaming platform.
+
 ## Start with
 
 To start with, Chinese users please visit [docs.authing.cn](https://docs.authing.cn)
+
 For English users, click [https://www.authing.cn/developer](https://www.authing.cn/developer)
 
 ## Values
@@ -283,7 +284,9 @@ When the number of users continues to rise, the pressure on the user system will
 ## Community
 
 Chat freely and give us feedback on our forum: [https://forum.authing.cn](https://forum.authing.cn)
+
 Email us at [sales@authing.cn](sales@authing.cn), or ring us at 400-6197-031 for a thorough talk.
+
 Other ways to contact us:
 
 Authing Chatbot:
