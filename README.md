@@ -1,10 +1,10 @@
-<h1 align=center>Authing: Connect Every Person and App on the Planet</h1>
+<h1>Authing: Connect Every Person and App on the Planet</h1>
 
-<div align="center">
+<div>
   <a href="https://authing.cn"><img width="300" src="https://files.authing.co/authing-console/authing-logo-new-20210924.svg?a=1" alt="Authing" /></a>
 </div>
 
-<div align="center">
+<div>
   <a href="https://docs.authing.cn/v2/" target="_blank"><img src="https://img.shields.io/badge/docs-passing-success"></a>
   <a href="https://forum.authing.cn/" target="_blank"><img src="https://img.shields.io/badge/chat-on%20forum-blue"></a>
   <a href="javascript:;"><img src="https://img.shields.io/badge/License-MIT-brightgreen"></a>
@@ -17,15 +17,15 @@ Authing quickly implements authentication and user management for any Web, App, 
 
 Authing does two things for you:
 
-- Customer Identity
+- <strong>Customer Identity</strong>
 
 Create a secure and seamless authentication experience for your customers.
 
-- Workforce Identity
+- <strong>Workforce Identity</strong>
 
 Protect and enable your workforce to use any technology on any device.
 
-![one scenario](./imgs/one-scenario.png)
+<div align=center><img src="./imgs/one-scenario.png" width="650px" /></div>
 
 ## What is Authing?
 
@@ -33,13 +33,13 @@ Authing serves as an identity infrastructure, or Identity As A Service (IDaaS)  
 
 Authing focuses on identity and building social infrastructure for identity sharing across all SaaS software and users to help companies build a secure modern IT infrastructure that not only protects their business, but also redefines the user experience.
 
-![image](./imgs/image_upimage_upload_load_0.png)
+<div align=center><img src="./imgs/image_upimage_upload_load_0.png" width="650px" /></div>
 
 <div align=center>Infrastructure for identity sharing across all SaaS software and users</div>
 
 Authing is the foundation for secure connections between a complex identity ecology and an application ecology in which countless identities access applications and resources in a borderless way.
 
-![image](./imgs/8f117429-bd58-42e7-8f05-2a6edea4827c.png)
+<div align=center><img src="./imgs/8f117429-bd58-42e7-8f05-2a6edea4827c.png" width="650px" /></div>
 
 <div align=center><strong>Key functions: Multi-factor login</strong></div>
 
@@ -47,7 +47,7 @@ Authing is the foundation for secure connections between a complex identity ecol
 
 Authing taking "API first" as the product cornerstone, all commonly used functions in the identity field are modularized and all capabilities are provided to developers through the full scene programming language SDK. At the same time, users can flexibly use Authing's Open Restful APIs for function expansion to meet the identity management needs of different enterprises under different business scenarios.
 
-![image](./imgs/7e4dc058-fc69-4063-afe8-bdaab238211b.png)
+<div align=center><img src="./imgs/7e4dc058-fc69-4063-afe8-bdaab238211b.png" width="650px" /></div>
 
 ## Features and Advantages
 
@@ -67,19 +67,19 @@ When Authing was launched, it was selected by the China Academy of Information a
 
 - Encrypted transmission and storage
 
-![image](./imgs/32f26a9f-92aa-42b6-87b7-512106dfe969.png)
+<div align=center><img src="./imgs/32f26a9f-92aa-42b6-87b7-512106dfe969.png" width="650px" /></div>
 
 ### Compliance
 
 Authing adheres to the compliance requirements of different countries and industries and strives to create reliable services for customers. At the same time, it actively participates in the formulation and promotion of industry security standards, adheres to the principle that compliance is service, and builds and operates a safe and reliable cloud ecological environment.
 
 <details>
-
-<summary><strong>Click to see specific protocols Authing adapts to</strong><summary>
-
-<div align=center>
-  <img src="./imgs/aa4d4629-d790-4f27-9631-9e82d9a35a5d.png" width="30px">
-</div>
+	<summary>
+		<strong>Click to see specific protocols Authing adapts to</strong>
+	</summary>
+	<div align=center>
+    <img src="./imgs/aa4d4629-d790-4f27-9631-9e82d9a35a5d.png" width="30px">
+  </div>
 
 As an enterprise-level SaaS service and identity service provider that concerns the core secrets of enterprises, Authing always puts security in the first place. Authing has international authoritative security certification and a mature information security management system to secure the whole life cycle of software, with reliable data security protection and round-the-clock security emergency response measures.
 
@@ -157,13 +157,15 @@ Authing can provide customized private deployment solutions according to the nee
 Authing supports customization and private deployment. Our team will follow up the whole process of customizing business requirements and deploy local servers for enterprise data security and control. The Customer Success team provides 7*24 hours continuous service from interface interfacing, testing and go-live to later system operation and maintenance, and management platform usage.
 
 ## Major Functions
+
 <details>
-
-<summary><h3>Universal login component</h3></summary>
-
+	<summary>
+		<strong>Universal login component</strong>
+	</summary>
+  <br/>
 The Universal Directory (Guard) is an embeddable login form that can be configured according to your needs and easily add various social login methods, allowing users to log in seamlessly and have a consistent login experience on different platforms.
 
-![image](./imgs/4e357666-a19a-4587-b857-fb3aa4c21607.png)
+<div align=center><img src="./imgs/4e357666-a19a-4587-b857-fb3aa4c21607.png" width="650px" /></div>
 
 <div align=center><strong>Universal Directory</strong></div>
 
@@ -172,7 +174,6 @@ The Guard helps developers shield the details of the underlying authentication a
 ![image](./imgs/d8b9d825-91ee-4c04-8611-dd1b0c6f489f.png)
 
 <div align=center><strong>Developers to quickly launch a secure, customizable UI unified login form</strong></div>
-
 </details>
 
 - Account password / phone verification / APP scan code / corporate identity source / social login.
@@ -181,10 +182,11 @@ The Guard helps developers shield the details of the underlying authentication a
 - Including login components such as React, Vue, Angular, JavaScript, etc.
 
 Guard can be easily embedded in your apps, customized to enable multiple social providers, and designed according to your brand.
-
-![image](./imgs/c1f8d4ab-9028-46f1-aa1d-aaa95ae2dadd.png)
+  
+<div align=center><img src="./imgs/c1f8d4ab-9028-46f1-aa1d-aaa95ae2dadd.png" width="650px" /></div>
 
 <div align=center><strong>Flexibly define login</strong></div>
+<br />
 
 If you want to be able to make changes to the existing UI, you can customize it with HTML, CSS and JavaScript.
 
@@ -193,8 +195,8 @@ If you want to be able to make changes to the existing UI, you can customize it 
 MFA is one of the best ways to prevent account theft. If a hacker wants to hack into an account protected by MFA, not only need to steal the credentials, but also need to verify additional factors.
 
 Generally, we see a tendency to use MFA in industries dealing with sensitive data. There is no additional identity layer in these verticals, so there is an urgent need for MFA.
-
-![image](./imgs/51436d13-3c5e-4706-a20a-535642ad7e01.png)
+  
+<div align=center><img src="./imgs/51436d13-3c5e-4706-a20a-535642ad7e01.png" width="650px" /></div>
 
 <div align=center><strong>Authing MFA</strong></div>
 
@@ -203,8 +205,8 @@ Authing can centrally configure a variety of authentication factors other than p
 ### Custom Database Connections
 
 When you want to ensure data security or smoothly migrate users, please use Authing to customize database connections. You can connect to external or local databases maintained by yourself, and you can also migrate existing user data from the old system to Authing.
-
-![image](./imgs/8544889f-43ff-4772-860e-25319486e72e.png)
+  
+<div align=center><img src="./imgs/8544889f-43ff-4772-860e-25319486e72e.png" width="650px" /></div>
 
 <div align=center><strong>Custom Database Connections</strong></div>
 <br/>
@@ -216,8 +218,8 @@ After joining APN, you will be able to experience the following functions:
 
 - Single sign-on (SSO) capability, which means your customers will be able to log in to your application through a unified entrance and a unified account
 - Make it easier for your customers to find your app, since APN will add your exposure opportunities to your potential partners
-
-![image](./imgs/5dbcb9f3-655a-49b5-9b06-9c7031048f8f.png)
+  
+<div align=center><img src="./imgs/5dbcb9f3-655a-49b5-9b06-9c7031048f8f.png" width="650px" /></div>
 
 ## Built-with
 
@@ -275,8 +277,8 @@ When the number of users continues to rise, the pressure on the user system will
 - [使用 Authing 替代 Cognito 结合 API 网关和 Lambda 访问资源](https://mp.weixin.qq.com/s/8oVG7ZWCjooueQEfzVGMXg)
 
 ## Who uses Authing ?
-
-![image](./imgs/f29ce09a-9794-417a-aa2c-1c41daeb5928.png)
+  
+<div align=center><img src="./imgs/f29ce09a-9794-417a-aa2c-1c41daeb5928.png" width="650px" /></div>
 
 ## Community
 
@@ -286,11 +288,12 @@ Other ways to contact us:
 
 Authing Chatbot:
 
-![image](./imgs/b7d9f582-24ef-419f-882c-38c34a7d88c8.png)
+<img src="./imgs/b7d9f582-24ef-419f-882c-38c34a7d88c8.png" width="200" />
 
 Wechat group QR code:
+  
+<img src="./imgs/b13e09d0-a815-4fcb-a759-e03ea191c41b.png" width="200" />
 
-![image](./imgs/b13e09d0-a815-4fcb-a759-e03ea191c41b.png)
 ## Contributors
 <div>
   <a href="https://github.com/leinue"><img width="40px" src="https://avatars.githubusercontent.com/u/2469688?v=4" /></a>
