@@ -48,8 +48,6 @@ Authing is the foundation for secure connections between a complex identity ecol
 
 Authing taking "API first" as the product cornerstone, all commonly used functions in the identity field are modularized and all capabilities are provided to developers through the full scene programming language SDK. At the same time, users can flexibly use Authing's Open Restful APIs for function expansion to meet the identity management needs of different enterprises under different business scenarios.
 
-<div align=center><img src="./imgs/7e4dc058-fc69-4063-afe8-bdaab238211b.png" width="650px" /></div>
-
 ## Features and Advantages
 
 Authing makes identity management easy.
@@ -64,8 +62,6 @@ When Authing was launched, it was selected by the China Academy of Information a
 - Multi-factor login
 - Password management
 - Encrypted transmission and storage
-
-<div align=center><img src="./imgs/32f26a9f-92aa-42b6-87b7-512106dfe969.png" width="650px" /></div>
 
 ### Compliance
 
