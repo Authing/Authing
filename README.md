@@ -61,11 +61,8 @@ As an excellent provider of identity management solutions, Authing will bring si
 When Authing was launched, it was selected by the China Academy of Information and Communications Technology as an "Innovative Enterprise in the Field of Identity Management and Access Control in China" and was included in the "White Paper on Cyber ​​Security Industry 2019".
 
 - Visual security audits
-
 - Multi-factor login
-
 - Password management
-
 - Encrypted transmission and storage
 
 <div align=center><img src="./imgs/32f26a9f-92aa-42b6-87b7-512106dfe969.png" width="650px" /></div>
