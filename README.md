@@ -17,15 +17,17 @@ Authing quickly implements authentication and user management for any Web, App, 
 
 Authing does two things for you:
 
-- <strong>Customer Identity</strong>
+- <strong>CIAM (Customer Identity & Access Management)</strong>
 
   Create a secure and seamless authentication experience for your customers.
 
-- <strong>Workforce Identity</strong>
+- <strong>EIAM (Enterprise Identity & Access Management)</strong>
 
   Protect and enable your workforce to use any technology on any device.
+  
+  Thousands of enterprises & developers trust Authing.
 
-<div align=center><img src="./imgs/one-scenario.png" width="650px" /></div>
+<div align=center><img src="./imgs/20211231-150836.png" width="650px" /></div>
 
 ## What is Authing?
 
