@@ -161,7 +161,7 @@ The Universal Directory (Guard) is an embeddable login form that can be configur
 <div align=center><img src="./imgs/4e357666-a19a-4587-b857-fb3aa4c21607.png" width="650px" /></div>
 
 <div align=center><strong><i>Universal Directory</i></strong></div>
-
+<br />
 The Guard helps developers shield the details of the underlying authentication and tedious UI development. It enables enterprises and developers to quickly launch a secure, customizable UI unified login form.
 
 ![image](./imgs/d8b9d825-91ee-4c04-8611-dd1b0c6f489f.png)
