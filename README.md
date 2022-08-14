@@ -288,7 +288,7 @@ Authing Chatbot:
 
 <img src="./imgs/b7d9f582-24ef-419f-882c-38c34a7d88c8.png" width="200" />
 
-Wechat group QR code:
+Scan the qrcode to add administrator to join the WeChat group.:
   
 <img src="./imgs/wechat-qrcode.png" width="200" />
 
