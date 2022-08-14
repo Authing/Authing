@@ -249,7 +249,6 @@ When the number of users continues to rise, the pressure on the user system will
 
 - [创·问 ｜Authing谢扬：身份是所有数字化的根本](https://mp.weixin.qq.com/s/-e5nHTi1OrCoHb-L7CJNpg)
 - [Authing 李宇航：国内首款以开发者为中心的全场景身份云](https://mp.weixin.qq.com/s/GkHaGga5nUhH5-MKh2m3LA)
-- [深度 | Authing CTO 尚斯年：云时代下的数字身份自动化](https://mp.weixin.qq.com/s/uRrda6HT3YvL6ZxyFmv5FA)
 
 ### Business
 
