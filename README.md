@@ -290,7 +290,7 @@ Authing Chatbot:
 
 Wechat group QR code:
   
-<img src="./imgs/wechat-authing.png" width="200" />
+<img src="./imgs/wechat-qrcode.png" width="200" />
 
 ## Contributors
 <div>
